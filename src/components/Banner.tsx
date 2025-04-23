@@ -8,7 +8,7 @@ const Banner = () => {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 leading-tight">
-              Say No to Drugs for a Safer Kerala
+              Say no to drugs, say yes to dreams — let's build a safer, stronger Kerala together
             </h1>
             <p className="text-lg md:text-xl mb-8 text-blue-100">
               Join Kerala Police in our mission to combat drug abuse and create a healthier, safer society.
