@@ -31,8 +31,8 @@ const AboutSection = () => {
           </div>
           <div>
             <img 
-              src="https://images.unsplash.com/photo-1584307833174-7053c9646d31" 
-              alt="Prescription Drugs and Medical Prevention" 
+              src="https://images.unsplash.com/photo-1638202993928-7267a2ddc4fd" 
+              alt="Prescription Medication and Drug Prevention" 
               className="rounded-lg shadow-xl w-full h-80 object-cover" 
             />
           </div>
