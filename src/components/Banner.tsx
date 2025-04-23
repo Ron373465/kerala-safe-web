@@ -24,8 +24,8 @@ const Banner = () => {
           </div>
           <div className="hidden md:block">
             <img 
-              src="https://images.unsplash.com/photo-1626266011434-8059a7ded5a9?auto=format&fit=crop&q=80" 
-              alt="Stop Drug Abuse" 
+              src="https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&q=80" 
+              alt="Stop Drug Abuse Campaign" 
               className="rounded-lg shadow-xl max-h-96 w-full object-cover"
             />
           </div>
@@ -36,4 +36,3 @@ const Banner = () => {
 };
 
 export default Banner;
-
