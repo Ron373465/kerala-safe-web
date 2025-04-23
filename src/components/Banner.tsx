@@ -1,9 +1,8 @@
-
 import { Button } from "./ui/button";
 
 const Banner = () => {
   return (
-    <div id="home" className="bg-gradient-to-r from-[#0A3D62] to-[#3867d6] text-white py-16 md:py-24">
+    <div id="home" className="bg-gradient-to-r from-[#2ecc71] to-[#27ae60] text-white py-16 md:py-24">
       <div className="max-w-7xl mx-auto px-4 md:px-8">
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div>
