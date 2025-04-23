@@ -1,4 +1,6 @@
 
+import React from 'react';
+
 const AboutSection = () => {
   return (
     <section id="about" className="py-16 bg-[#0A3D62] text-white">
@@ -29,8 +31,8 @@ const AboutSection = () => {
           </div>
           <div>
             <img 
-              src="https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?auto=format&fit=crop&q=80" 
-              alt="Kerala Forest" 
+              src="https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&q=80" 
+              alt="Say No to Drugs Campaign" 
               className="rounded-lg shadow-xl w-full h-80 object-cover" 
             />
           </div>
