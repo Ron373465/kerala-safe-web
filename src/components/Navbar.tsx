@@ -1,10 +1,9 @@
-
 import { Phone } from "lucide-react";
 import { Button } from "./ui/button";
 
 const Navbar = () => {
   return (
-    <nav className="bg-[#0A3D62] text-white py-3 px-4 md:px-8 shadow-md sticky top-0 z-50">
+    <nav className="bg-black text-white py-3 px-4 md:px-8 shadow-md sticky top-0 z-50">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <div className="flex items-center space-x-2">
           <img src="/placeholder.svg" alt="Kerala Police Logo" className="h-10 w-10" />
